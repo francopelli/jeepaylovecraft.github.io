@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeepay Lovecraft</title>
+    <link>https://www.jeepaylovecraft.com/</link>
+    <description>Recent content on Jeepay Lovecraft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://www.jeepaylovecraft.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.jeepaylovecraft.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jeepaylovecraft.com/about/</guid>
+      <description>We are a Toronto based quasi surf meatball alt pop band.
+ Justin: drumskies Noah: bassness Chris: rhythmz n sangin Vinnie: shredder Fran: key slappin  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.jeepaylovecraft.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jeepaylovecraft.com/contact/</guid>
+      <description>jeepaylovecraft@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://www.jeepaylovecraft.com/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jeepaylovecraft.com/music/</guid>
+      <description>Anklebiter (EP, 2018)</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://www.jeepaylovecraft.com/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jeepaylovecraft.com/videos/</guid>
+      <description>           </description>
+    </item>
+    
+  </channel>
+</rss>
