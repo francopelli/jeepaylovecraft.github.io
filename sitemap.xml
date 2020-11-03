@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jeepaylovecraft.com/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.jeepaylovecraft.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -16,16 +12,7 @@
   </url>
   
   <url>
-    <loc>https://www.jeepaylovecraft.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jeepaylovecraft.com/music/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.jeepaylovecraft.com/photos/</loc>
   </url>
   
   <url>
@@ -34,7 +21,8 @@
   </url>
   
   <url>
-    <loc>https://www.jeepaylovecraft.com/videos/</loc>
+    <loc>https://www.jeepaylovecraft.com/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
